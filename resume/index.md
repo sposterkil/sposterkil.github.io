@@ -27,4 +27,4 @@ I participated in a Robotics course at the [Indiana Institute of Technology](htt
 * Finally, I administered the Fort Wayne Homeschooler's Volunteering group from 2008 to 2010.  We organized several activities for local homeschoolers, including a eyeglass collection drive for the Lions organization.
 
 
-You can download my resume as a pdf [here](/resume.pdf "Résumé"). 
+You can download my resume as a pdf [here]({{site.url}}downloads/resume.pdf "Résumé"). 

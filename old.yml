@@ -1,5 +1,6 @@
 name: Sam Osterkil
 url: http://localhost:4000/
+# description:
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
