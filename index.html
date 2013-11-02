@@ -1,8 +1,12 @@
 ---
 layout: default
-title: Solar Theme
+title: Sam Osterkil
 ---
 
+{% markdown home.md %}
+	<div>
+		<h1>Blog</h1>
+	</div>
 {% for post in paginator.posts %}
 
 	<article class="post">
@@ -21,7 +25,6 @@ title: Solar Theme
 	</article>
 
 {% endfor %}
-
 
 
 {% if paginator.total_pages > 1 %}
