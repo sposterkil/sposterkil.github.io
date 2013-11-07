@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: CSV Project Overview
+title: Pareto Project Précis
 ---
 
 A brief list of the goals of this project, in increasing order of projected difficulty:
