@@ -5,7 +5,7 @@ title: Contact Information
 #Contact Information
 
 ###Phone
-* 260 255 6164
+* 708 253 5223
 
 ###Email
 * [sam.osterkil@case.edu](mailto:sam.osterkil@case.edu)
