@@ -6,7 +6,7 @@ title: Résumé
 #Résumé
 
 ##Skills
-I am skilled in Python and Java programming, comfortable in the UNIX shell, and familiar with Windows, Mac, and Linux-based operating systems.
+I am skilled in Python and Java programming, familiar with C#; comfortable in the UNIX shell; and I know my way around Windows, Mac, and Linux-based operating systems.
 
 ##Education
 I am currently a rising senior at [Case Western Reserve University](http://case.edu/).
