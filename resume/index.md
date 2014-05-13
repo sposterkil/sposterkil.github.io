@@ -9,9 +9,10 @@ title: Résumé
 I am skilled in Python and Java programming, comfortable in the UNIX shell, and familiar with Windows, Mac, and Linux-based operating systems.
 
 ##Education
+I am currently a rising senior at [Case Western Reserve University](http://case.edu/).
 
 ###College
-I am a Computer Science student of the Class of 2015 at [Case Western Reserve University](http://case.edu/), in Cleveland, Ohio.
+I am a Computer Science student of the Class of 2015 at [Case Western](http://case.edu/), in Cleveland, Ohio.
 
 ###High School
 I was homeschooled through [Clonlara School](http://www.clonlara.org/), a private, accredited, home-based education program, Class of 2011.
