@@ -11,4 +11,4 @@ title: Contact Information
 * [sam@osterkil.me](mailto:sam@osterkil.me)
 
 ### Telegram ###
-* @Spost
+* [@Spost](http://telegram.me/spost)
