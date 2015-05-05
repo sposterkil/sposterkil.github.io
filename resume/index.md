@@ -22,7 +22,7 @@ I participated in a Robotics course at the [Indiana Institute of Technology](htt
 
 ##Side Projects
 * I created a basic IRC bot in Python, as a project to help me learn the language.
-* I administer a Minecraft server for a 10-20 person userbase, running on a standard rack-based server.
+* I administered a Minecraft server for a 10-20 person userbase, running on a standard rack-based server.
 * I built a tool to generate tags from large CSV files, for use in an internal ticketing system at [International Truck and Engine](http://www.internationaltrucks.com/trucks/). 
 * I made a Python script to manage all the various git repositories on my computer by tag, so I can update them in bulk.  
 * I'm currently working on a simple music player for OS X, because I'm really not happy with any of the existing offerings.  I just want a simple interface that can play FLAC, but it'll also serve as an opportunity to learn Xcode. 
