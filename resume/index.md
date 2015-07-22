@@ -3,22 +3,27 @@ layout: default
 title: Résumé
 ---
 
-#Résumé
+# Résumé #
 
-##Skills
+## Skills ##
 I am skilled in Python, Java, and C programming, familiar with C#; comfortable in the UNIX shell; and I know my way around Windows, Mac, and Linux-based operating systems.  I'm also proficient with the Git version control system.  
 
-##Education
+## Education ##
 I am currently a senior with one semester to go at [Case Western Reserve University](http://case.edu/).
 
-###College
-I am a Computer Science student of the Class of 2016 at [Case Western](http://case.edu/), in Cleveland, Ohio.
+### College ###
+I am a Computer Science student of the Class of 2015 (or 2016.  I'm graduating in December.) at [Case Western](http://case.edu/), in Cleveland, Ohio.
 
-###High School
+###High School ### 
 I was homeschooled through [Clonlara School](http://www.clonlara.org/), a private, accredited, home-based education program, Class of 2011.
 
-###Outside of school
+### Outside of school ### 
 I participated in a Robotics course at the [Indiana Institute of Technology](http://www.indianatech.edu/), from December 2008 to April 2009.
+
+## Work History ##
+
+### Polycom ###
+I am currently working at [Polycom](http://www.polycom.com) over the summer of 2015 as a Software Engineering Intern.  I worked on expanding their automated test suite to cover some new functionality in the API, was part of a team examining inconsistencies in the user interfaces to their various products, and am currently building an HTML5-based interface to one of those.
 
 ##Side Projects
 * I created a basic IRC bot in Python, as a project to help me learn the language.
