@@ -6,7 +6,7 @@ title: Résumé
 # Résumé #
 
 ## Skills ##
-I am skilled in Python, Java, and C programming, familiar with C#; comfortable in the UNIX shell; and I know my way around Windows, Mac, and Linux-based operating systems.  I'm also proficient with the Git version control system.  
+My strongest programming languages are Python, Java, and C, in roughly that order.  I also know a smattering of C# and Objective-C, know my way around HTML, CSS, and Javascript. I'm equally comfortable in Windows, Mac, or Linux-based operating systems, though I prefer Mac or Linux for development.  I'm also proficient with the Git and Subversion version control systems.  
 
 ## Education ##
 I am currently a senior with one semester to go at [Case Western Reserve University](http://case.edu/).
@@ -23,14 +23,14 @@ I participated in a Robotics course at the [Indiana Institute of Technology](htt
 ## Work History ##
 
 ### Polycom ###
-I am currently working at [Polycom](http://www.polycom.com) over the summer of 2015 as a Software Engineering Intern.  I worked on expanding their automated test suite to cover some new functionality in the API, was part of a team examining inconsistencies in the user interfaces to their various products, and am currently building an HTML5-based interface to one of those.
+Over the summer of 2015 I worked at [Polycom](http://www.polycom.com) as a Software Engineering Intern.  While there I worked on expanding their automated test suite to cover some new functionality in the API, was part of a team examining inconsistencies in the user interfaces to their various products, and built an HTML5-based interface to one of those with the other interns.
 
 ##Side Projects
 * I created a basic IRC bot in Python, as a project to help me learn the language.
 * I administered a Minecraft server for a 10-20 person userbase, running on a standard 1U server in the basement.
 * I built a tool to generate tags from large CSV files, for use in an internal ticketing system at [International Truck and Engine](http://www.internationaltrucks.com/trucks/). 
 * I wrote a [Python script](https://github.com/sposterkil/gman) to manage all the various git repositories on my computer by tag, so I can update them in bulk.  
-* I'm currently working on a simple music player for OS X, because I'm really not happy with any of the existing offerings.  I just want a simple interface that can play FLAC, but it'll also serve as an opportunity to learn Xcode. 
+* For my senior project, I'm working to create a lightweight, extensible music player for OSX.  I haven't been happy with most of the existing offerings, so I hope to create something fast and stable with good format support.  
 
 ##Service
 * I volunteered on the Allen County Public Library (ACPL) Teen Advisory Board from 2009 to 2011, where I helped maintain the Young Adults department, reviewed pre-release copies of books for publishers, and acted as an assistant in running several library programs.  
