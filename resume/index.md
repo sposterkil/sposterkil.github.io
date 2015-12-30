@@ -6,7 +6,7 @@ title: Résumé
 # Résumé #
 
 ## Skills ##
-My strongest programming languages are Python, Java, and C, in roughly that order.  I also know a smattering of C# and Objective-C, know my way around HTML, CSS, and Javascript. I'm equally comfortable in Windows, Mac, or Linux-based operating systems, though I prefer Mac or Linux for development.  I'm also proficient with the Git and Subversion version control systems.  
+My strongest programming languages are Python, Java, and C, in roughly that order.  I also know a smattering of C# and a decent amount of Objective-C, and I know my way around HTML, CSS, and Javascript. I'm equally comfortable in Windows, Mac, or Linux-based operating systems, though I prefer Mac or Linux for development.  I'm also proficient with the Git and Subversion version control systems.  
 
 ## Education ##
 I am currently waiting to recieve my diploma from [Case Western Reserve University](http://case.edu/).
